@@ -1,15 +1,15 @@
-# FedSurfGS
-FedSurfGS: Scalable 3D Surface Gaussian Splatting with Federated Learning for Large Scene Reconstruction
+# CoSurfGS
+CoSurfGS: Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction
 
-### [Project Page](https://zju3dv.github.io/FedSurfGS/) | [Paper]()
+### [Project Page](https://gyy456.github.io/CoSurfGS/) | [Paper](https://arxiv.org/abs/2412.17612)
 <!-- Code is coming soon. -->
 
 <br/>
 
 > 
 
-> [Weicai Ye](https://ywcmaike.github.io/), Hao Li, Yuanyuan Gao,Yalun Dai, Junyi Chen, Nanqing Dong, Dingwen Zhang, Hujun Bao, Wanli Ouyang, Yu Qiao, Tong He, Guofeng Zhang
-
+> Yuanyuan Gao, Yalun Dai, Hao Li, [Weicai Ye](https://ywcmaike.github.io/), Junyi Chen, Danpeng Chen, Dingwen Zhang, Tong He, Guofeng Zhang, Junwei Han
+> 
 ## Teaser
 ![demo_vid](assets/images/teaser.jpg)
 First cloud-edge-device hierarchical framework with federated learning for large-scale high-fidelity surface reconstruction in a distributed manner, achieving balance between high-precision reconstruction and low-cost memory.
@@ -26,9 +26,9 @@ First cloud-edge-device hierarchical framework with federated learning for large
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@article{Ye2024FedSurfGS,
-          title={FedSurfGS: Scalable 3D Surface Gaussian Splatting with Federated Learning for Large Scene Reconstruction},
-          author={Weicai Ye and Hao Li and Yuanyuan Gao and Yalun Dai and Junyi Chen and Nanqing Dong and Dingwen Zhang and Hujun Bao and Wanli Ouyang and Yu Qiao and Tong He and Guofeng Zhang},
+@article{Gao2024CoSurfGS,
+          title={CoSurfGS: Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction},
+          author={Yuanyuan Gao and Yalun Dai and Hao Li and Weicai Ye and Junyi Chen and Danpeng Chen and Dingwen Zhang and Tong He and Guofeng Zhang and Junwei Han},
           booktitle={arxiv preprint},
           year={2024},
       }
